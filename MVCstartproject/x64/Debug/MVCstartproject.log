@@ -1,0 +1,5 @@
+﻿  MVCstartproject.cpp
+C:\Users\Саня\source\repos\MVCstartproject\MVCstartproject\MVCstartproject.cpp(22,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Саня\source\repos\MVCstartproject\MVCstartproject\MVCstartproject.cpp(41,45): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Саня\source\repos\MVCstartproject\MVCstartproject\MVCstartproject.cpp(50,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MVCstartproject.vcxproj -> C:\Users\Саня\source\repos\MVCstartproject\x64\Debug\MVCstartproject.exe
